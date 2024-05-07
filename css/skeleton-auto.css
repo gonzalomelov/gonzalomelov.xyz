@@ -293,14 +293,6 @@ hr {
        url('../fonts/open-sans-v34-vietnamese_latin-ext_latin_hebrew_greek-ext_greek_cyrillic-ext_cyrillic-800.svg#OpenSans') format('svg'); /* Legacy iOS */
 }
 
-/* Background
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
-@media (max-width: 768px) {
-  body {
-    background-position: calc(50% + 80px) 50%;
-  }
-}
-
 /* Other
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 /* Typography Enhancements for Bio */
