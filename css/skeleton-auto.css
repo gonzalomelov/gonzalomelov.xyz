@@ -300,3 +300,66 @@ hr {
     background-position: calc(50% + 80px) 50%;
   }
 }
+
+/* Other
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+/* Typography Enhancements for Bio */
+.bio {
+  /* Ensuring the font family is set */
+  font-family: 'Open Sans', sans-serif;
+  /* Larger font size for readability */
+  font-size: 20px;
+  /* Increased line height for better text flow */
+  line-height: 1.6;
+  /* Semi-bold weight for better emphasis */
+  font-weight: 600;
+  /* Lighter color for better contrast against the dark background */
+  color: #ccc
+  /* Adding some padding to give text more breathing room */;
+  padding: 0 20px;
+}
+
+/* Enhanced Button Styles */
+.button {
+  /* A brighter blue for better visibility */
+  background-color: #2457F5;
+  /* White text for contrast */
+  color: white;
+  /* More padding for a better click area */
+  padding: 10px 20px;
+  /* Removing default borders */
+  border: none;
+  /* Rounded corners for a modern look */
+  border-radius: 5px;
+  /* Smooth transition for hover effect */
+  transition: background-color 0.3s ease;
+}
+
+.button:hover {
+  /* Darker shade on hover for interactive feedback */
+  background-color: #083BDA;
+}
+
+/* Improving Image Presentation */
+.avatar {
+  border: 2px solid white; /* White border around the image */
+  box-shadow: 0 0 10px rgba(0,0,0,0.5); /* Soft shadow for 3D effect */
+}
+
+/* General Aesthetic Improvements */
+body {
+  /* Adding a gradient overlay for better text visibility */
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.9)), url('../images/background.png');
+  /* Ensuring all text is bright enough to read */
+  color: #ffffff;
+}
+
+@media (prefers-color-scheme: dark) {
+  /* Adjust link colors for dark mode */
+  a {
+    color: #4899F7;
+  }
+  a:hover {
+    color: #7AB8FF;
+  }
+}
