@@ -1090,6 +1090,16 @@ button:hover,
   filter: brightness(90%);
 }
 
+/* Warpcast */
+.button.button-warpcast {
+  color: #ffffff;
+  background-color: #9146ff;
+}
+.button.button-warpcast:hover,
+.button.button-warpcast:focus {
+  filter: brightness(90%);
+}
+
 /* Website */
 .button.button-web {
   color: #ffffff;

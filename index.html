@@ -2,7 +2,6 @@
 <html lang="en">
 
 <head>
-
   <!-- Page Information -->
   <meta charset="utf-8">
   <title>gonzalomelov - Engineering & Product</title>
@@ -12,10 +11,55 @@
   <!-- Mobile Specific Metas -->
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
+  <!-- Preload font files -->
+  <link rel="preload" href="fonts/Inconsolata-Light.woff" as="font" type="font/woff" crossorigin>
+  <link rel="preload" href="fonts/Inconsolata-Regular.woff" as="font" type="font/woff" crossorigin>
+  <link rel="preload" href="fonts/Inconsolata-Bold.woff" as="font" type="font/woff" crossorigin>
+
   <!-- CSS -->
   <link rel="stylesheet" href="css/normalize.css">
   <link rel="stylesheet" href="css/skeleton-auto.css">
   <link rel="stylesheet" href="css/brands.css">
+
+  <!-- Inconsolata Font -->
+  <style>
+    @font-face {
+      font-family: 'Inconsolata';
+      src: url('fonts/Inconsolata-Light.woff') format('truetype');
+      font-weight: 300;
+      font-style: normal;
+      font-display: optional;
+    }
+    
+    @font-face {
+      font-family: 'Inconsolata';
+      src: url('fonts/Inconsolata-Regular.woff') format('truetype');
+      font-weight: 400;
+      font-style: normal;
+      font-display: optional;
+    }
+
+    @font-face {
+      font-family: 'Inconsolata';
+      src: url('fonts/Inconsolata-Bold.woff') format('truetype');
+      font-weight: 700;
+      font-style: normal;
+      font-display: optional;
+    }
+
+    body {
+      font-family: 'Inconsolata', monospace;
+      font-weight: 300;
+    }
+    
+    h1, h2, h3, h4, h5, h6 {
+      font-family: 'Inconsolata', monospace;
+    }
+
+    .light-text {
+      font-weight: 300;
+    }
+  </style>
 
   <!-- Favicon -->
   <link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon.png">
@@ -32,7 +76,6 @@
 
     gtag('config', 'G-LZVHY103NQ');
   </script>
-
 </head>
 
 <body>
@@ -49,37 +92,42 @@
         <h1 role="heading">gonzalomelov</h1>
 
         <!-- Short Bio -->
-        <p class="bio">Currently engaged with Web3, blockchain, and crypto projects. Keen on applying blockchain technology to solve real-world problems.</p>
+        <p class="bio light-text">Currently engaged with Web3, blockchain, and crypto projects. Keen on applying blockchain technology to solve real-world problems.</p>
 
         <!-- GitHub -->
         <a class="button button-github" href="https://github.com/gonzalomelov" target="_blank" rel="noopener" role="button">
-          <img class="icon" aria-hidden="true" src="images/icons/github.svg" alt="GitHub Logo">Explore My Projects
+          <img class="icon" aria-hidden="true" src="images/icons/github.svg" alt="GitHub Logo">Explore
         </a><br>
 
         <!-- LinkedIn -->
         <a class="button button-linked" href="https://www.linkedin.com/in/gonzalomelov" target="_blank" rel="noopener" role="button">
-          <img class="icon" aria-hidden="true" src="images/icons/linkedin.svg" alt="LinkedIn Logo">View My Professional Profile
+          <img class="icon" aria-hidden="true" src="images/icons/linkedin.svg" alt="LinkedIn Logo">Connect
         </a><br>
 
         <!-- Generic Blog -->
         <a class="button button-default" href="Resume-Gonzalo-Melo-Viera.pdf" target="_blank" rel="noopener" role="button">
-          <img class="icon" aria-hidden="true" src="images/icons/generic-blog.svg" alt="Blog Icon">Check Out My CV
+          <img class="icon" aria-hidden="true" src="images/icons/generic-blog.svg" alt="Blog Icon">Review
         </a><br>
 
         <!-- X -->
         <a class="button button-x" href="https://x.com/gonzalomelov" target="_blank" rel="noopener" role="button">
-          <img class="icon" aria-hidden="true" src="images/icons/x.svg" alt="X Logo">Follow My Updates
+          <img class="icon" aria-hidden="true" src="images/icons/x.svg" alt="X Logo">Follow
+        </a><br>
+
+        <!-- Warpcast -->
+        <a class="button button-warpcast" href="https://warpcast.com/gonzalomelov.eth" target="_blank" rel="noopener" role="button">
+          <img class="icon" aria-hidden="true" src="images/icons/warpcast.svg" alt="Warpcast Logo">Subscribe
         </a><br>
 
         <!-- Telegram -->
         <a class="button button-telegram" href="https://t.me/gonzalomelov" target="_blank" rel="noopener" role="button">
           <img class="icon" aria-hidden="true" src="images/icons/telegram.svg" alt="Telegram Logo">
-          Chat Me
+          Chat
         </a><br>
 
         <!-- Email -->
         <a class="button button-default" href="mailto:gonzalomelov@gmail.com" target="_blank" rel="noopener" role="button">
-          <img class="icon" aria-hidden="true" src="images/icons/generic-email.svg" alt="Email Icon">Email Me
+          <img class="icon" aria-hidden="true" src="images/icons/generic-email.svg" alt="Email Icon">Email
         </a><br>
 
         <!-- Footer -->
