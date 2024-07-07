@@ -4,11 +4,6 @@
       "source": "/videos",
       "destination": "https://loom.com/share/folder/62463d0be50a44609d8eea98fd2dbbd4",
       "permanent": false
-    },
-    {
-      "source": "/(.*)",
-      "destination": "https://loom.com/share/folder/62463d0be50a44609d8eea98fd2dbbd4",
-      "permanent": false
     }
   ]
 }
