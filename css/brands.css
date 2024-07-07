@@ -80,7 +80,7 @@ button:hover,
 /* Default (this is great for your own brand color!) */
 .button.button-default {
   color: #ffffff;
-  background-color: #2457F5;
+  background-color: #d85428;
 }
 .button.button-default:hover,
 .button.button-default:focus {
@@ -592,6 +592,16 @@ button:hover,
 .button.button-linked {
   color: #ffffff;
   background-color: #2867b2;
+}
+.button.button-linked:hover,
+.button.button-linked:focus {
+  filter: brightness(90%);
+}
+
+/* LinkedIn */
+.button.button-loom {
+  color: #615DF5;
+  background-color: #ffffff;
 }
 .button.button-linked:hover,
 .button.button-linked:focus {
