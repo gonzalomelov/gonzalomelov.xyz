@@ -20,7 +20,7 @@ I have a strong technical foundation in TypeScript and Node.js, with broad exper
 `Blockchain & Web3`
 
 ### Full Stack Engineer @ [Target Onchain](https://targetonchain.xyz)
-**June 2024 - Present (3 months)**  
+**June 2024 - Present**  
 - Built from scratch to recommend [Shopify](https://apps.shopify.com/target-onchain) & [Slice](https://slice.so) products using users' onchain data on [Farcaster](https://warpcast.com/targetonchain).
 - Achieved 40+ Slice stores posted through the Warpcast [Composer Action](https://warpcast.com/dwr.eth/0xdca50d28).
 - Optimized product recommendations to respond in under 5 seconds for over 600k Farcaster users, handling large datasets of onchain data (500k+ EAS attestations).
