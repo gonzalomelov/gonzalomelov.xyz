@@ -1,0 +1,16 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "description": "This repository contains the source files for Gonzalo Melo's CV.",
+  "main": "index.js",
+  "scripts": {
+    "watch": "node watch-and-convert.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chokidar": "^4.0.0",
+    "md-to-pdf": "^5.2.4"
+  }
+}
