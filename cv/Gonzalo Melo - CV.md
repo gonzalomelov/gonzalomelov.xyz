@@ -7,24 +7,28 @@
 
 ## Summary
 
-I am a software engineer with +10yrs of experience in software development and product management.
+I'm an engineer with 10+ years in development and product, specializing in startups and blockchain.
 
-Recently, I worked on blockchain solutions at [Web3Pro](https://www.linkedin.com/company/web3pro) and [The Sandbox Game](https://www.sandbox.game/en/shop), focusing on scalable NFT marketplaces. Participating solo, I received the overall Top Prize in the [Decentralized Intelligence S2](https://learnweb3.io/hackathons/decentralized-intelligence-season-2/projects/749ff9f5-a05e-4c12-b71b-8eee23c61c9f) hackathon and ranked in the Top 20 out of more than 1200 projects in the [Onchain Summer QV](https://onchain-summer.devfolio.co/leaderboard).
+Recently, I worked on blockchain solutions at [Web3Pro](https://www.linkedin.com/company/web3pro) and [The Sandbox Game](https://www.sandbox.game/en/shop), focusing on NFT marketplaces. Participating solo, I received the overall Top Prize in the [Decentralized Intelligence S2](https://learnweb3.io/hackathons/decentralized-intelligence-season-2/projects/749ff9f5-a05e-4c12-b71b-8eee23c61c9f) hackathon and ranked in the Top 20 out of more than 1200 projects in the [Onchain Summer QV](https://onchain-summer.devfolio.co/leaderboard).
 
 Previously, I co-owned [KONA (acq. by Technisys)](https://ibsintelligence.com/ibsi-news/technisys-acquires-conversational-ai-innovator-kona-to-elevate-digital-banking-experience), where I helped grow an AI startup focused on conversational agents for the banking industry from zero to exit.
 
-I have a strong technical foundation in TypeScript and Node.js, with broad experience across various programming languages and frameworks, and have been part of several tech startups.
+I have a solid foundation in TypeScript and Node.js, with experience across the full stack, including React, Next.js, Solidity, Ethers.js, SQL, NoSQL, Python, Cloud, and DevOps.
 
 ## Experience
 
 `Blockchain & Web3`
 
-### Full Stack Engineer @ [Target Onchain](https://targetonchain.xyz)
-**June 2024 - Present**  
+**Full Stack Engineer @ [Onchain Inspirers Collective](https://goinspire.xyz)** · *Aug - Sep 2024 · [ETHOnline](https://ethglobal.com/showcase/goinspire-xyz-yzvyj)*
+- Inspired by *Los Simuladores*, built a platform to inspire positive onchain actions within chats.
+- Used a [Galadriel AI](https://galadriel.com/) multi-agent system on [XMTP](https://xmtp.org/) group chats for inspirations like donating money.
+- "Proof of Inspiration" attestations verified and enforced onchain using [Sign](https://sign.global/) through a [schema hook](https://github.com/gonzalomelov/goinspirexyz-sign/blob/efafadcc10bfa7844703991bfc8e4e729df19a35/src/02-schema-hook/ProofOfInspiration.sol).
+- Utilized TypeScript, Node.js, Next.js, [Solidity](https://github.com/gonzalomelov/goinspirexyz/tree/main/packages/hardhat#smart-contracts-overview). See [GitHub](https://github.com/gonzalomelov/goinspirexyz).
+
+**Full Stack Engineer @ [Target Onchain](https://targetonchain.xyz)** · *June - July 2024 · [Base Onchain Summer](https://devfolio.co/projects/target-onchain-47c7)*
 - Built from scratch to recommend [Shopify](https://apps.shopify.com/target-onchain) & [Slice](https://slice.so) products using users' onchain data on [Farcaster](https://warpcast.com/targetonchain).
 - Achieved 40+ Slice stores posted through the Warpcast [Composer Action](https://warpcast.com/dwr.eth/0xdca50d28).
-- Optimized product recommendations to respond in under 5 seconds for over 600k Farcaster users, handling large datasets of onchain data (500k+ EAS attestations).
-- Integrated with [Base](https://www.base.org), [Ethereum Attestation Service](https://attest.org), The Graph, and OnchainKit.
+- Optimized product recommendations in <5s for 600k+ users, processing 500k+ [EAS](https://attest.org) attestations.
 - Used TypeScript, Node.js, Prisma (MySQL), GraphQL, scikit-learn, Next.js and Vercel. See [GitHub](https://github.com/gonzalomelov/targetonchain).
 
 ### Software Engineer @ [Web3Pro](https://www.prnewswire.com/news-releases/web3-pro-closes-new-funding-round-in-further-sign-of-digital-ads-upheaval-301968499.html)
@@ -33,17 +37,17 @@ I have a strong technical foundation in TypeScript and Node.js, with broad exper
 - Developed several E2E features for a marketing solution focused on NFT rewards.
 - Worked with JavaScript, Nest.js, Ethers.js, Prisma (MySQL), React, and Kubernetes on AWS.
 
-### Technical Product Manager @ [The Sandbox](https://www.sandbox.game)
+### Technical Product Manager @ [NFT Marketplace - The Sandbox](https://www.sandbox.game/en/shop)
 **Oct 2022 - Sep 2023 (1 year)**  
-- Led the development of the [NFT Marketplace](https://www.sandbox.game/en/shop), prioritizing user-focused features, and collaborated closely with teams to deliver a product that meets game needs.
-- Guided a team of 8 people (devs, QA, UX designer).
-- Focused on deploying to Polygon (9k unique NFTs) and opening the metaverse for any user (5M accounts) to easily mint assets with the new [CATALYSTs system](https://opensea.io/collection/the-sandbox-s-catalysts).
+- Guided development with user-focused features and collaborated with teams to meet game needs.
+- Led a team of 8 people (devs, QA, UX designer).
+- Worked on deploy 9k NFTs on Polygon and open the metaverse for 5M users to mint with [CATALYST](https://opensea.io/collection/the-sandbox-s-catalysts).
 - Utilized JavaScript, Node.js, Redis, PostgreSQL, gRPC, and React.
 
 
 `Fintech & AI`
 
-**Product Owner @ [Technisys](https://www.technisys.com) (acq. by Galileo)** *Mar 2021 - Feb 2022 (1 year)*
+**Product Owner @ [Technisys](https://www.technisys.com) (acq. by Galileo)** · *Mar 2021 - Feb 2022 (1 year)*
 - Led the microservices component of [Cyberbank](https://www.technisys.com/cyberbank), overseeing the product lifecycle and 10 devs.
 - Architected core microservices for Authentication, Authorization, Transaction and Event Handling.
 - Addressed key technical areas including Data Management, Scalability, Fault Tolerance, Deployment, Continuous Delivery, and Testing.
@@ -71,10 +75,10 @@ I have a strong technical foundation in TypeScript and Node.js, with broad exper
 
 - **Languages:** TypeScript, JavaScript (Frequent); Python, Solidity, Rust (Occasional)
 - **Frameworks & Libraries:** Node.js, Nest.js, Prisma, gRPC (Frequent); React, Next.js (Occasional)
-- **Blockchain & Web3:** Ethereum, L2s (Polygon, Base), XRPL, Ethe  rs.js, SCs, NFTs, The Graph
-- **Storage:** MySQL, MongoDB, GraphQL, Redis
+- **Blockchain & Web3:** Ethereum, L2s (Polygon, Base), XRPL, Ethers.js, SCs, NFTs, The Graph
+- **Storage:** MySQL, MongoDB, Redis, GraphQL
 - **Cloud & DevOps:** AWS, Docker, Kubernetes, Vercel, Cloudflare
-- **ML & AI:** scikit-learn, LLMs (Ollama) (Occasional)
+- **ML & AI:** scikit-learn, LLMs (Occasional)
 - **Software Development:** Microservices, REST APIs, Architecture
 - **Product Management:** Agile, Scrum, Project Management, Product Lifecycle Management
 
