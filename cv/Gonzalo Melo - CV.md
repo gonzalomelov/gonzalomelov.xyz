@@ -13,7 +13,7 @@ Recently, I worked on blockchain solutions at [Web3Pro](https://www.linkedin.com
 
 Previously, I co-owned [KONA (acq. by Technisys)](https://ibsintelligence.com/ibsi-news/technisys-acquires-conversational-ai-innovator-kona-to-elevate-digital-banking-experience), where I helped grow an AI startup focused on conversational agents for the banking industry from zero to exit.
 
-I have a solid foundation in TypeScript and Node.js, with experience across the full stack, including React, Next.js, Solidity, Ethers.js, SQL, NoSQL, Python, Cloud, and DevOps.
+I have a solid foundation in TypeScript and Node.js, with experience across the full stack, including React, Next.js, Solidity, Ethers.js, SQL, NoSQL, Python, UX/UI, Cloud, and DevOps.
 
 ## Experience
 
@@ -23,13 +23,13 @@ I have a solid foundation in TypeScript and Node.js, with experience across the 
 - Inspired by *Los Simuladores*, built a platform to inspire positive onchain actions within chats.
 - Used a [Galadriel AI](https://galadriel.com/) multi-agent system on [XMTP](https://xmtp.org/) group chats for inspirations like donating money.
 - "Proof of Inspiration" attestations verified and enforced onchain using [Sign](https://sign.global/) through a [schema hook](https://github.com/gonzalomelov/goinspirexyz-sign/blob/efafadcc10bfa7844703991bfc8e4e729df19a35/src/02-schema-hook/ProofOfInspiration.sol).
-- Utilized TypeScript, Node.js, Next.js, [Solidity](https://github.com/gonzalomelov/goinspirexyz/tree/main/packages/hardhat#smart-contracts-overview). See [GitHub](https://github.com/gonzalomelov/goinspirexyz).
+- Utilized TypeScript, Node.js, Next.js, [Solidity](https://github.com/gonzalomelov/goinspirexyz/tree/main/packages/hardhat#smart-contracts-overview), Vercel. See [GitHub](https://github.com/gonzalomelov/goinspirexyz) and [Figma](https://www.figma.com/design/Oky1Qoj6Z1en1UYTmdPzOe/Gonzalo-Melo?node-id=2022-193&t=x5DekbZsu4RrfhIo-4).
 
 **Full Stack Engineer @ [Target Onchain](https://targetonchain.xyz)** · *June - July 2024 · [Base Onchain Summer](https://devfolio.co/projects/target-onchain-47c7)*
 - Built from scratch to recommend [Shopify](https://apps.shopify.com/target-onchain) & [Slice](https://slice.so) products using users' onchain data on [Farcaster](https://warpcast.com/targetonchain).
 - Achieved 40+ Slice stores posted through the Warpcast [Composer Action](https://warpcast.com/dwr.eth/0xdca50d28).
 - Optimized product recommendations in <5s for 600k+ users, processing 500k+ [EAS](https://attest.org) attestations.
-- Used TypeScript, Node.js, Prisma (MySQL), GraphQL, scikit-learn, Next.js and Vercel. See [GitHub](https://github.com/gonzalomelov/targetonchain).
+- Used TypeScript, Node.js, Prisma (MySQL), GraphQL, scikit-learn, Next.js. See [GitHub](https://github.com/gonzalomelov/targetonchain) and [Figma](https://www.figma.com/design/Oky1Qoj6Z1en1UYTmdPzOe/Gonzalo-Melo?node-id=2022-198&t=x5DekbZsu4RrfhIo-4).
 
 ### Software Engineer @ [Web3Pro](https://www.prnewswire.com/news-releases/web3-pro-closes-new-funding-round-in-further-sign-of-digital-ads-upheaval-301968499.html)
 **Nov 2023 - April 2024 (6 months)**  
@@ -68,8 +68,8 @@ I have a solid foundation in TypeScript and Node.js, with experience across the 
 
 ## Projects
 
-- **[Bump your DevCon 7 Bid](https://warpcast.com/gonzalomelov.eth/0x27fb36af)** (June 2024): Implemented a [Farcaster frame](https://warpcast.com/gonzalomelov.eth/0x27fb36af) allowing users to bump their bids, ensuring a dynamic and interactive bidding process. See usage on [Dune Analytics](https://dune.com/gonzalomelov/devcon-7-raffle).
-- **[Farcaster Onchain Verification](https://farcaster-onchain-verification.gonzalomelov.xyz)** (April 2024 - May 2024): Developed a [Farcaster frame](https://warpcast.com/gonzalomelov.eth/0xeeff2622) for users to attest to their accounts, improving their [Gitcoin Passport](https://passport.gitcoin.co) humanity scores. Contributed to Gitcoin Passport [open source](https://github.com/Farcaster-On-Chain-Verification/passport/tree/feat/add-farcaster-stamp) project by adding the Farcaster stamp. See usage on [Dune Analytics](https://dune.com/gonzalomelov/farcaster-onchain-verifications).
+- **[Bump your DevCon 7 Bid](https://warpcast.com/gonzalomelov.eth/0x27fb36af)** (June 2024): Implemented a [Farcaster frame](https://warpcast.com/gonzalomelov.eth/0x27fb36af) allowing users to bump their bids, ensuring a dynamic and interactive bidding process. See usage on [Dune](https://dune.com/gonzalomelov/devcon-7-raffle) and UX/UI on [Figma](https://www.figma.com/design/Oky1Qoj6Z1en1UYTmdPzOe/Gonzalo-Melo?node-id=2022-196&t=x5DekbZsu4RrfhIo-4).
+- **[Farcaster Onchain Verification](https://farcaster-onchain-verification.gonzalomelov.xyz)** (April - May 2024): Developed a [Farcaster frame](https://warpcast.com/gonzalomelov.eth/0xeeff2622) for users to attest to their accounts, improving their [Gitcoin Passport](https://passport.gitcoin.co) humanity scores. Contributed to Gitcoin Passport [open source](https://github.com/Farcaster-On-Chain-Verification/passport/tree/feat/add-farcaster-stamp) project by adding the Farcaster stamp. See usage on [Dune](https://dune.com/gonzalomelov/farcaster-onchain-verifications) and UX/UI on [Figma](https://www.figma.com/design/Oky1Qoj6Z1en1UYTmdPzOe/Gonzalo-Melo?node-id=2022-197&t=x5DekbZsu4RrfhIo-4).
 
 ## Skills
 
