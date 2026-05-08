@@ -7,7 +7,7 @@
 
 ## Summary
 
-I'm an engineer with 10+ years in development and product, specializing in startups and blockchain.
+I'm an software engineer with several years in development and product, specializing in startups and blockchain.
 
 Recently, I worked on blockchain solutions at [Web3Pro](https://www.linkedin.com/company/web3pro) and [The Sandbox Game](https://www.sandbox.game/en/shop), focusing on NFT marketplaces. Participating solo, I received the overall Top Prize in the [Decentralized Intelligence S2](https://learnweb3.io/hackathons/decentralized-intelligence-season-2/projects/749ff9f5-a05e-4c12-b71b-8eee23c61c9f) hackathon and ranked in the Top 20 out of more than 1200 projects in the [Onchain Summer QV](https://onchain-summer.devfolio.co/leaderboard).
 
@@ -19,6 +19,16 @@ I have a solid foundation in TypeScript and Node.js, with experience across the 
 
 `Blockchain & Web3`
 
+**Full Stack Engineer @ [Adversarium](https://adversarium.xyz)** · *Dec 2024 · [Optimism AI Agent Prize Winner](https://dorahacks.io/hackathon/aleph-de-verano)*  
+- Built a platform for creating adversarial AI-driven games with blockchain-powered prize pools and monetization tools.  
+- Integrated OnchainKit, AgentKit, and OpenAI LLMs for smart contracts and customizable AI agents.  
+- Used Next.js, Node.js, Solidity, PostgreSQL, and Tailwind CSS. See [GitHub](https://github.com/gonzalomelov/adversariumxyz).  
+
+**Full Stack Engineer @ [AI Agent for Coinbase Wallet](https://realtimesmartwallet.vercel.app)** · *Oct - Nov 2024 · [Based LatAm](https://devfolio.co/projects/builtin-ai-agent-for-coinbase-wallet-6734)*
+- Simplified blockchain access for LatAm users by building a voice-enabled AI agent to interact with the Coinbase Smart Wallet in real time.
+- Solved integration hurdles between [OnchainKit](https://onchainkit.xyz/) and [OpenAI Realtime API](https://platform.openai.com/docs/guides/realtime/overview?text-generation-quickstart-example=audio) by creating custom data-routing handlers.
+- Used Next.js, Fastify, Smart Wallet, OnchainKit, Basenames, OpenAI Realtime API, and Twilio. See [GitHub](https://github.com/gonzalomelov/openai-realtime-console-onchainkit).
+
 **Full Stack Engineer @ [Onchain Inspirers Collective](https://goinspire.xyz)** · *Aug - Sep 2024 · [ETHOnline](https://ethglobal.com/showcase/goinspire-xyz-yzvyj)*
 - Inspired by *Los Simuladores*, built a platform to inspire positive onchain actions within chats.
 - Used a [Galadriel AI](https://galadriel.com/) multi-agent system on [XMTP](https://xmtp.org/) group chats for inspirations like donating money.
@@ -28,7 +38,7 @@ I have a solid foundation in TypeScript and Node.js, with experience across the 
 **Full Stack Engineer @ [Target Onchain](https://targetonchain.xyz)** · *June - July 2024 · [Base Onchain Summer](https://devfolio.co/projects/target-onchain-47c7)*
 - Built from scratch to recommend [Shopify](https://apps.shopify.com/target-onchain) & [Slice](https://slice.so) products using users' onchain data on [Farcaster](https://warpcast.com/targetonchain).
 - Achieved 40+ Slice stores posted through the Warpcast [Composer Action](https://warpcast.com/dwr.eth/0xdca50d28).
-- Optimized product recommendations in <5s for 600k+ users, processing 500k+ [EAS](https://attest.org) attestations.
+- Optimized product recommendations in <1s for 600k+ users, processing 500k+ [EAS](https://attest.org) attestations.
 - Used TypeScript, Node.js, Prisma (MySQL), GraphQL, scikit-learn, Next.js. See [GitHub](https://github.com/gonzalomelov/targetonchain) and [Figma](https://www.figma.com/design/Oky1Qoj6Z1en1UYTmdPzOe/Gonzalo-Melo?node-id=2022-198&t=x5DekbZsu4RrfhIo-4).
 
 ### Software Engineer @ [Web3Pro](https://www.prnewswire.com/news-releases/web3-pro-closes-new-funding-round-in-further-sign-of-digital-ads-upheaval-301968499.html)
