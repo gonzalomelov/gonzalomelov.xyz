@@ -2,7 +2,7 @@
 
 **Location:** Uruguay (UTC/GMT -3)  
 **Email:** [gonzalomelov@gmail.com](mailto:gonzalomelov@gmail.com) · **Telegram:** [t.me/gonzalomelov](https://t.me/gonzalomelov)  
-**Website:** [gonzalomelov.xyz](https://gonzalomelov.xyz) · **GitHub:** [github.com/gonzalomelov](https://github.com/gonzalomelov) · **LinkedIn:** [linkedin.com/in/gonzalomelov](https://linkedin.com/in/gonzalomelov)  
+**Website:** [gonzalomelov.com](https://gonzalomelov.com) · **GitHub:** [github.com/gonzalomelov](https://github.com/gonzalomelov) · **LinkedIn:** [linkedin.com/in/gonzalomelov](https://linkedin.com/in/gonzalomelov)  
 **Farcaster:** [warpcast.com/gonzalomelov.eth](https://warpcast.com/gonzalomelov.eth) · **X:** [x.com/gonzalomelov](https://x.com/gonzalomelov)
 
 ## Summary
@@ -79,7 +79,7 @@ I have a solid foundation in TypeScript and Node.js, with experience across the 
 ## Projects
 
 - **[Bump your DevCon 7 Bid](https://warpcast.com/gonzalomelov.eth/0x27fb36af)** (June 2024): Implemented a [Farcaster frame](https://warpcast.com/gonzalomelov.eth/0x27fb36af) allowing users to bump their bids, ensuring a dynamic and interactive bidding process. See usage on [Dune](https://dune.com/gonzalomelov/devcon-7-raffle) and UX/UI on [Figma](https://www.figma.com/design/Oky1Qoj6Z1en1UYTmdPzOe/Gonzalo-Melo?node-id=2022-196&t=x5DekbZsu4RrfhIo-4).
-- **[Farcaster Onchain Verification](https://farcaster-onchain-verification.gonzalomelov.xyz)** (April - May 2024): Developed a [Farcaster frame](https://warpcast.com/gonzalomelov.eth/0xeeff2622) for users to attest to their accounts, improving their [Gitcoin Passport](https://passport.gitcoin.co) humanity scores. Contributed to Gitcoin Passport [open source](https://github.com/Farcaster-On-Chain-Verification/passport/tree/feat/add-farcaster-stamp) project by adding the Farcaster stamp. See usage on [Dune](https://dune.com/gonzalomelov/farcaster-onchain-verifications) and UX/UI on [Figma](https://www.figma.com/design/Oky1Qoj6Z1en1UYTmdPzOe/Gonzalo-Melo?node-id=2022-197&t=x5DekbZsu4RrfhIo-4).
+- **Farcaster Onchain Verification** (April - May 2024): Developed a [Farcaster frame](https://warpcast.com/gonzalomelov.eth/0xeeff2622) for users to attest to their accounts, improving their [Gitcoin Passport](https://passport.gitcoin.co) humanity scores. Contributed to Gitcoin Passport [open source](https://github.com/Farcaster-On-Chain-Verification/passport/tree/feat/add-farcaster-stamp) project by adding the Farcaster stamp. See usage on [Dune](https://dune.com/gonzalomelov/farcaster-onchain-verifications) and UX/UI on [Figma](https://www.figma.com/design/Oky1Qoj6Z1en1UYTmdPzOe/Gonzalo-Melo?node-id=2022-197&t=x5DekbZsu4RrfhIo-4).
 
 ## Skills
 
